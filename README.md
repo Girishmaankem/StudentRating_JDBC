@@ -3,7 +3,8 @@
                                                           Using JDBC
  
  This Project helps us to compute average assignment rating and overall rating for eachstudentand/or subjectsto measure effectiveness of learning. For each subject, the overall ratingis determined by ratings on various categories, including tests, quizzes, labworks, projects, etc .
-How to Use:
+ 
+ How to Use:
 
 As soon as we run the application, you will be prompted with 4 options, like below
 
@@ -11,6 +12,7 @@ As soon as we run the application, you will be prompted with 4 options, like bel
 2.Display Subject Average
 3.Display Data
 4.Exit
+
 a) If you select Display Student Average i.e. option 1, you need to enter the student name, and press enter Then that particuar student's average in all the subject will be displayed.
 
 b) If you select Display Subject Average i.e. option 2, you need to enter the subject name, and press enter. Then all students average in that particular subject will be displayed.
