@@ -1,7 +1,8 @@
 # StudentRating_JDBC
-R a t i n g   S t u d e n t s
-                         Using JDBC
-This Project helps us to compute average assignment rating and overall rating for eachstudentand/or subjectsto measure effectiveness of learning. For each subject, the overall ratingis determined by ratings on various categories, including tests, quizzes, labworks, projects, etc .
+                                                   R a t i n g   S t u d e n t s
+                                                          Using JDBC
+ 
+ This Project helps us to compute average assignment rating and overall rating for eachstudentand/or subjectsto measure effectiveness of learning. For each subject, the overall ratingis determined by ratings on various categories, including tests, quizzes, labworks, projects, etc .
 How to Use:
 
 As soon as we run the application, you will be prompted with 4 options, like below
