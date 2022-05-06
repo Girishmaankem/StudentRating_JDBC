@@ -9,8 +9,11 @@
 As soon as we run the application, you will be prompted with 4 options, like below
 
 1.Display Student Average
+
 2.Display Subject Average
+
 3.Display Data
+
 4.Exit
 
 a) If you select Display Student Average i.e. option 1, you need to enter the student name, and press enter Then that particuar student's average in all the subject will be displayed.
